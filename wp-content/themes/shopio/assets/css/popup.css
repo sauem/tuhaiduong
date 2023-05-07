@@ -24,6 +24,15 @@
   padding: 10px 50px;
   border: 2px solid #FFFFFF; }
 
+.product-block .product-image {
+  max-height: 300px;
+  display: flex;
+  overflow: hidden;
+  object-fit: contain; }
+  .product-block .product-image img {
+    display: flex;
+    object-fit: contain; }
+
 .product-style-custom .star-rating {
   font-size: 20px; }
 .product-style-custom .price {

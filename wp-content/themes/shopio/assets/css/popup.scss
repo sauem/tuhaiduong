@@ -38,7 +38,19 @@ $grow: #A87C4F;
     border: 2px solid #FFFFFF;
   }
 }
+.product-block{
+  .product-image {
+    max-height: 300px;
+    display: flex;
+    overflow: hidden;
+    object-fit: contain;
 
+    img {
+      display: flex;
+      object-fit: contain;
+    }
+  }
+}
 .product-style-custom {
   .star-rating {
     font-size: 20px;
