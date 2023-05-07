@@ -62,7 +62,8 @@ if (!class_exists('Shopio_Customize')) {
                     //====start_premium
                     'style-1'  => esc_html__('Blog Grid', 'shopio'),
                     'style-2'  => esc_html__('Blog Overlay', 'shopio'),
-                    'style-3'  => esc_html__('Blog List', 'shopio')
+                    'style-3'  => esc_html__('Blog List', 'shopio'),
+                    'style-5'  => esc_html__('Blog custom', 'shopio')
                     //====end_premium
                 ),
             ));
@@ -334,6 +335,7 @@ if (!class_exists('Shopio_Customize')) {
                     '6' => esc_html__('Style 6', 'shopio'),
                     '7' => esc_html__('Style 7', 'shopio'),
                     '8' => esc_html__('Style 8', 'shopio'),
+                    'custom' => esc_html__('Style custom', 'shopio'),
                     //====end_premium
 
                 ),
