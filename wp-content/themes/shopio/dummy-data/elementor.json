@@ -1,0 +1,174 @@
+{
+    "system_colors": [
+        {
+            "_id": "primary",
+            "title": "Primary",
+            "color": "#82D175"
+        },
+        {
+            "_id": "primary_hover",
+            "title": "Primary Hover",
+            "color": "#6bc85c"
+        },
+        {
+            "_id": "text",
+            "title": "Text",
+            "color": "#666666"
+        },
+        {
+            "_id": "accent",
+            "title": "Heading",
+            "color": "#000000"
+        },
+        {
+            "_id": "lighter",
+            "title": "Lighter",
+            "color": "#999999"
+        },
+        {
+            "_id": "border",
+            "title": "Border",
+            "color": "#E5E5E5"
+        }
+    ],
+    "custom_colors": [],
+    "system_typography": [
+        {
+            "_id": "primary",
+            "title": "Primary",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "secondary",
+            "title": "Secondary",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "accent",
+            "title": "Accent",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "text",
+            "title": "Text",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "heading_title",
+            "title": "Heading Title",
+            "typography_typography": "custom",
+            "typography_font_family": "Be Vietnam Pro",
+            "typography_font_weight": "700",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 28,
+                "sizes": []
+            },
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 24,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "px",
+                "size": 36,
+                "sizes": []
+            },
+            "typography_line_height_mobile": {
+                "unit": "px",
+                "size": 32,
+                "sizes": []
+            }
+        },
+        {
+            "_id": "heading_sub",
+            "title": "heading Sub",
+            "typography_typography": "custom",
+            "typography_font_family": "Be Vietnam Pro",
+            "typography_font_weight": "600",
+            "typography_text_transform": "uppercase",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 12,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "px",
+                "size": 24,
+                "sizes": []
+            }
+        },
+        {
+            "_id": "heading_footer",
+            "title": "heading Footer",
+            "typography_typography": "custom",
+            "typography_font_family": "Be Vietnam Pro",
+            "typography_font_weight": "700",
+            "typography_text_transform": "uppercase",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 14,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+            }
+        }
+    ],
+    "custom_typography": [],
+    "default_generic_fonts": "Sans-serif",
+    "site_name": "Shopio",
+    "site_description": "Multi-store WooCommerce Theme",
+    "page_title_selector": "h1.entry-title",
+    "activeItemIndex": 1,
+    "active_breakpoints": [
+        "viewport_mobile",
+        "viewport_mobile_extra",
+        "viewport_tablet",
+        "viewport_tablet_extra",
+        "viewport_laptop"
+    ],
+    "viewport_md": 768,
+    "viewport_lg": 1025,
+    "container_width": {
+        "unit": "px",
+        "size": 1290,
+        "sizes": []
+    },
+    "space_between_widgets": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+    },
+    "button_typography_typography": "custom",
+    "button_typography_font_family": "Be Vietnam Pro",
+    "button_typography_font_size": {
+        "unit": "px",
+        "size": 14,
+        "sizes": []
+    },
+    "button_typography_font_weight": "700",
+    "button_text_color": "#FFFFFF",
+    "button_background_color": "#333333",
+    "button_hover_border_radius": {
+        "unit": "px",
+        "top": "4",
+        "right": "4",
+        "bottom": "4",
+        "left": "4",
+        "isLinked": true
+    },
+    "button_padding": {
+        "unit": "px",
+        "top": "17",
+        "right": "30",
+        "bottom": "17",
+        "left": "30",
+        "isLinked": false
+    },
+    "__globals__": {
+        "button_hover_background_color": "globals\/colors?id=primary"
+    }
+}

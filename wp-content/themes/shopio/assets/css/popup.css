@@ -1,0 +1,145 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'Danh Ba';
+  src: url("../fonts/DanhDa-Bold.otf"); }
+.ehf-header #masthead {
+  background: #000000;
+  width: 100%; }
+
+.main-navigation ul > li.menu-item > a,
+.main-navigation ul.nav-menu > li.menu-item > a, .site-header-search > a i,
+.header-group-action .site-header-cart .cart-contents:before,
+.header-group-action .site-header-cart .count {
+  color: white; }
+
+.count-review .star-rating span::before {
+  color: #A67C50; }
+
+.text-white {
+  color: white !important; }
+
+.post-style-custom .more-link {
+  background: transparent !important;
+  border-radius: 50px;
+  padding: 10px 50px;
+  border: 2px solid #FFFFFF; }
+
+.product-style-custom .star-rating {
+  font-size: 20px; }
+.product-style-custom .price {
+  background: black;
+  width: fit-content;
+  border-radius: 50px;
+  color: #A67C50 !important;
+  font-style: italic;
+  padding: 0 15px;
+  margin: 10px auto;
+  font-size: 12px !important; }
+  .product-style-custom .price ins {
+    color: #A67C50 !important; }
+.product-style-custom .product-transition .onsale {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  background-color: unset;
+  background-image: url("../images/tag.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  color: black;
+  width: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  font-size: 13px; }
+.product-style-custom .product-transition .product-image {
+  max-height: 300px;
+  display: flex;
+  overflow: hidden;
+  object-fit: contain; }
+  .product-style-custom .product-transition .product-image img {
+    display: flex;
+    object-fit: contain; }
+.product-style-custom .product-transition .group-action {
+  position: relative !important;
+  border: solid 1px #A67C50;
+  width: fit-content;
+  border-radius: 50px;
+  bottom: 0;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  visibility: visible;
+  opacity: 1; }
+  .product-style-custom .product-transition .group-action button:before, .product-style-custom .product-transition .group-action a:before {
+    color: #A67C50; }
+  .product-style-custom .product-transition .group-action.background-white {
+    padding: 0;
+    background: transparent; }
+    .product-style-custom .product-transition .group-action.background-white .shop-action.horizontal > *:not(:last-child) {
+      border-right: 1px solid #A67C50; }
+
+.white-popup {
+  max-width: 100%;
+  width: 500px;
+  overflow: auto !important;
+  background: rgba(0, 0, 0, 0.5);
+  margin: auto; }
+  .white-popup .mfp-close {
+    display: none; }
+  .white-popup .popup-content {
+    padding: 40px 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px; }
+    .white-popup .popup-content .logo {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 15px;
+      flex-direction: column;
+      align-items: center; }
+      .white-popup .popup-content .logo h4 {
+        color: white; }
+    .white-popup .popup-content .form-group {
+      text-align: left;
+      width: fit-content;
+      margin: auto; }
+    .white-popup .popup-content input[type="radio"] {
+      display: none; }
+    .white-popup .popup-content input[type="radio"] + label {
+      position: relative;
+      display: inline-block;
+      padding-left: 1.5em;
+      margin-right: 2em;
+      cursor: pointer;
+      line-height: 1em;
+      -webkit-transition: all 0.3s ease-in-out;
+      transition: all 0.3s ease-in-out; }
+    .white-popup .popup-content input[type="radio"] + label:before,
+    .white-popup .popup-content input[type="radio"] + label:after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 1em;
+      height: 1em;
+      text-align: center;
+      color: white;
+      font-family: Times;
+      border-radius: 50%;
+      -webkit-transition: all .3s ease;
+      transition: all .3s ease; }
+    .white-popup .popup-content input[type="radio"] + label:before {
+      content: '✓';
+      border-radius: 4px;
+      background-color: white;
+      color: white; }
+    .white-popup .popup-content input[type="radio"] + label:hover:before {
+      color: #f0f0f0; }
+    .white-popup .popup-content input[type="radio"]:checked + label:before {
+      background-color: white;
+      color: #f79420; }
+
+/*# sourceMappingURL=popup.css.map */

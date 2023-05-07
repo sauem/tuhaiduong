@@ -1,0 +1,954 @@
+
+@font-face {
+  font-family: "shopio-icon";
+  src: url("../../../fonts/icons/shopio-icon-1.1.7.eot");
+  src: url("../../../fonts/icons/shopio-icon-1.1.7.eot?#iefix") format("eot"), url("../../../fonts/icons/shopio-icon-1.1.7.woff2") format("woff2"), url("../../../fonts/icons/shopio-icon-1.1.7.woff") format("woff"), url("../../../fonts/icons/shopio-icon-1.1.7.ttf") format("truetype"), url("../../../fonts/icons/shopio-icon-1.1.7.svg#shopio-icon-1.1.7") format("svg");
+}
+[class*=shopio-icon-] {
+  font-family: "shopio-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.shopio-icon-account:before {
+  content: "";
+}
+
+.shopio-icon-address:before {
+  content: "";
+}
+
+.shopio-icon-angle-down:before {
+  content: "";
+}
+
+.shopio-icon-angle-left:before {
+  content: "";
+}
+
+.shopio-icon-angle-right:before {
+  content: "";
+}
+
+.shopio-icon-angle-up:before {
+  content: "";
+}
+
+.shopio-icon-automotive:before {
+  content: "";
+}
+
+.shopio-icon-badge:before {
+  content: "";
+}
+
+.shopio-icon-bag-alt:before {
+  content: "";
+}
+
+.shopio-icon-beauty-health:before {
+  content: "";
+}
+
+.shopio-icon-bed:before {
+  content: "";
+}
+
+.shopio-icon-bold-flavor:before {
+  content: "";
+}
+
+.shopio-icon-boost-metabolism:before {
+  content: "";
+}
+
+.shopio-icon-calendar:before {
+  content: "";
+}
+
+.shopio-icon-cart-plus:before {
+  content: "";
+}
+
+.shopio-icon-cart:before {
+  content: "";
+}
+
+.shopio-icon-chairs:before {
+  content: "";
+}
+
+.shopio-icon-chat:before {
+  content: "";
+}
+
+.shopio-icon-check-square-solid:before {
+  content: "";
+}
+
+.shopio-icon-chevron-double-left:before {
+  content: "";
+}
+
+.shopio-icon-chevron-double-right:before {
+  content: "";
+}
+
+.shopio-icon-click:before {
+  content: "";
+}
+
+.shopio-icon-clock:before {
+  content: "";
+}
+
+.shopio-icon-clothing-fashion:before {
+  content: "";
+}
+
+.shopio-icon-coffee-sourced:before {
+  content: "";
+}
+
+.shopio-icon-compare:before {
+  content: "";
+}
+
+.shopio-icon-customer-say:before {
+  content: "";
+}
+
+.shopio-icon-customer-support:before {
+  content: "";
+}
+
+.shopio-icon-daily-deals:before {
+  content: "";
+}
+
+.shopio-icon-deal:before {
+  content: "";
+}
+
+.shopio-icon-delivered-fresh:before {
+  content: "";
+}
+
+.shopio-icon-delivery-1:before {
+  content: "";
+}
+
+.shopio-icon-delivery-2:before {
+  content: "";
+}
+
+.shopio-icon-delivery:before {
+  content: "";
+}
+
+.shopio-icon-design-plant:before {
+  content: "";
+}
+
+.shopio-icon-discount-01:before {
+  content: "";
+}
+
+.shopio-icon-discount:before {
+  content: "";
+}
+
+.shopio-icon-electronics:before {
+  content: "";
+}
+
+.shopio-icon-esasy-pres:before {
+  content: "";
+}
+
+.shopio-icon-eye:before {
+  content: "";
+}
+
+.shopio-icon-facebook-f:before {
+  content: "";
+}
+
+.shopio-icon-fashion-payment:before {
+  content: "";
+}
+
+.shopio-icon-fashion-quality:before {
+  content: "";
+}
+
+.shopio-icon-fashion:before {
+  content: "";
+}
+
+.shopio-icon-featured:before {
+  content: "";
+}
+
+.shopio-icon-filter-ul:before {
+  content: "";
+}
+
+.shopio-icon-food-drink:before {
+  content: "";
+}
+
+.shopio-icon-free-delivery-1:before {
+  content: "";
+}
+
+.shopio-icon-free-delivery:before {
+  content: "";
+}
+
+.shopio-icon-free-return:before {
+  content: "";
+}
+
+.shopio-icon-furniture-1:before {
+  content: "";
+}
+
+.shopio-icon-furniture:before {
+  content: "";
+}
+
+.shopio-icon-garden-care:before {
+  content: "";
+}
+
+.shopio-icon-gift-r:before {
+  content: "";
+}
+
+.shopio-icon-global-1:before {
+  content: "";
+}
+
+.shopio-icon-google-plus-g:before {
+  content: "";
+}
+
+.shopio-icon-healh-beauty:before {
+  content: "";
+}
+
+.shopio-icon-health-beauty:before {
+  content: "";
+}
+
+.shopio-icon-heart-1:before {
+  content: "";
+}
+
+.shopio-icon-home-appliances:before {
+  content: "";
+}
+
+.shopio-icon-increase-energy:before {
+  content: "";
+}
+
+.shopio-icon-left-arrow:before {
+  content: "";
+}
+
+.shopio-icon-like:before {
+  content: "";
+}
+
+.shopio-icon-linkedin-in:before {
+  content: "";
+}
+
+.shopio-icon-list-ul:before {
+  content: "";
+}
+
+.shopio-icon-long-arrow-down:before {
+  content: "";
+}
+
+.shopio-icon-long-arrow-left:before {
+  content: "";
+}
+
+.shopio-icon-long-arrow-right:before {
+  content: "";
+}
+
+.shopio-icon-long-arrow-up:before {
+  content: "";
+}
+
+.shopio-icon-mailchip-01:before {
+  content: "";
+}
+
+.shopio-icon-mall-fashion:before {
+  content: "";
+}
+
+.shopio-icon-medica-riview:before {
+  content: "";
+}
+
+.shopio-icon-medica-saving:before {
+  content: "";
+}
+
+.shopio-icon-money-return:before {
+  content: "";
+}
+
+.shopio-icon-need:before {
+  content: "";
+}
+
+.shopio-icon-newsletter:before {
+  content: "";
+}
+
+.shopio-icon-pen:before {
+  content: "";
+}
+
+.shopio-icon-pet-supplies:before {
+  content: "";
+}
+
+.shopio-icon-phone:before {
+  content: "";
+}
+
+.shopio-icon-plane-1:before {
+  content: "";
+}
+
+.shopio-icon-play:before {
+  content: "";
+}
+
+.shopio-icon-popular:before {
+  content: "";
+}
+
+.shopio-icon-quality:before {
+  content: "";
+}
+
+.shopio-icon-quote:before {
+  content: "";
+}
+
+.shopio-icon-recommend:before {
+  content: "";
+}
+
+.shopio-icon-refund:before {
+  content: "";
+}
+
+.shopio-icon-return-fashion:before {
+  content: "";
+}
+
+.shopio-icon-right-arrow-cicrle:before {
+  content: "";
+}
+
+.shopio-icon-right-arrow:before {
+  content: "";
+}
+
+.shopio-icon-rocket-1:before {
+  content: "";
+}
+
+.shopio-icon-search-1:before {
+  content: "";
+}
+
+.shopio-icon-searches:before {
+  content: "";
+}
+
+.shopio-icon-secure-payment:before {
+  content: "";
+}
+
+.shopio-icon-seed-supply:before {
+  content: "";
+}
+
+.shopio-icon-shieldcheck-01:before {
+  content: "";
+}
+
+.shopio-icon-shopping-bag:before {
+  content: "";
+}
+
+.shopio-icon-sliders-v:before {
+  content: "";
+}
+
+.shopio-icon-smooth-taste:before {
+  content: "";
+}
+
+.shopio-icon-sports:before {
+  content: "";
+}
+
+.shopio-icon-star-bestseller:before {
+  content: "";
+}
+
+.shopio-icon-storage:before {
+  content: "";
+}
+
+.shopio-icon-support-01:before {
+  content: "";
+}
+
+.shopio-icon-support:before {
+  content: "";
+}
+
+.shopio-icon-toys-kids:before {
+  content: "";
+}
+
+.shopio-icon-travel-outdoor:before {
+  content: "";
+}
+
+.shopio-icon-twitte-1:before {
+  content: "";
+}
+
+.shopio-icon-vase:before {
+  content: "";
+}
+
+.shopio-icon-watering-graden:before {
+  content: "";
+}
+
+.shopio-icon-weight-loss:before {
+  content: "";
+}
+
+.shopio-icon-adobe:before {
+  content: "";
+}
+
+.shopio-icon-amazon:before {
+  content: "";
+}
+
+.shopio-icon-android:before {
+  content: "";
+}
+
+.shopio-icon-angular:before {
+  content: "";
+}
+
+.shopio-icon-apper:before {
+  content: "";
+}
+
+.shopio-icon-apple:before {
+  content: "";
+}
+
+.shopio-icon-atlassian:before {
+  content: "";
+}
+
+.shopio-icon-behance:before {
+  content: "";
+}
+
+.shopio-icon-bitbucket:before {
+  content: "";
+}
+
+.shopio-icon-bitcoin:before {
+  content: "";
+}
+
+.shopio-icon-bity:before {
+  content: "";
+}
+
+.shopio-icon-bluetooth:before {
+  content: "";
+}
+
+.shopio-icon-btc:before {
+  content: "";
+}
+
+.shopio-icon-centos:before {
+  content: "";
+}
+
+.shopio-icon-chrome:before {
+  content: "";
+}
+
+.shopio-icon-codepen:before {
+  content: "";
+}
+
+.shopio-icon-cpanel:before {
+  content: "";
+}
+
+.shopio-icon-discord:before {
+  content: "";
+}
+
+.shopio-icon-dochub:before {
+  content: "";
+}
+
+.shopio-icon-docker:before {
+  content: "";
+}
+
+.shopio-icon-dribbble:before {
+  content: "";
+}
+
+.shopio-icon-dropbox:before {
+  content: "";
+}
+
+.shopio-icon-drupal:before {
+  content: "";
+}
+
+.shopio-icon-ebay:before {
+  content: "";
+}
+
+.shopio-icon-facebook:before {
+  content: "";
+}
+
+.shopio-icon-figma:before {
+  content: "";
+}
+
+.shopio-icon-firefox:before {
+  content: "";
+}
+
+.shopio-icon-google-plus:before {
+  content: "";
+}
+
+.shopio-icon-google:before {
+  content: "";
+}
+
+.shopio-icon-grunt:before {
+  content: "";
+}
+
+.shopio-icon-gulp:before {
+  content: "";
+}
+
+.shopio-icon-html5:before {
+  content: "";
+}
+
+.shopio-icon-joomla:before {
+  content: "";
+}
+
+.shopio-icon-link-brand:before {
+  content: "";
+}
+
+.shopio-icon-linkedin:before {
+  content: "";
+}
+
+.shopio-icon-mailchimp:before {
+  content: "";
+}
+
+.shopio-icon-opencart:before {
+  content: "";
+}
+
+.shopio-icon-paypal:before {
+  content: "";
+}
+
+.shopio-icon-pinterest-p:before {
+  content: "";
+}
+
+.shopio-icon-reddit:before {
+  content: "";
+}
+
+.shopio-icon-skype:before {
+  content: "";
+}
+
+.shopio-icon-slack:before {
+  content: "";
+}
+
+.shopio-icon-snapchat:before {
+  content: "";
+}
+
+.shopio-icon-spotify:before {
+  content: "";
+}
+
+.shopio-icon-trello:before {
+  content: "";
+}
+
+.shopio-icon-twitter:before {
+  content: "";
+}
+
+.shopio-icon-vimeo:before {
+  content: "";
+}
+
+.shopio-icon-whatsapp:before {
+  content: "";
+}
+
+.shopio-icon-wordpress:before {
+  content: "";
+}
+
+.shopio-icon-yoast:before {
+  content: "";
+}
+
+.shopio-icon-youtube:before {
+  content: "";
+}
+
+.shopio-icon-360:before {
+  content: "";
+}
+
+.shopio-icon-bars:before {
+  content: "";
+}
+
+.shopio-icon-caret-down:before {
+  content: "";
+}
+
+.shopio-icon-caret-left:before {
+  content: "";
+}
+
+.shopio-icon-caret-right:before {
+  content: "";
+}
+
+.shopio-icon-caret-up:before {
+  content: "";
+}
+
+.shopio-icon-cart-empty:before {
+  content: "";
+}
+
+.shopio-icon-check-square:before {
+  content: "";
+}
+
+.shopio-icon-circle:before {
+  content: "";
+}
+
+.shopio-icon-cloud-download-alt:before {
+  content: "";
+}
+
+.shopio-icon-comment:before {
+  content: "";
+}
+
+.shopio-icon-comments:before {
+  content: "";
+}
+
+.shopio-icon-contact:before {
+  content: "";
+}
+
+.shopio-icon-credit-card:before {
+  content: "";
+}
+
+.shopio-icon-dot-circle:before {
+  content: "";
+}
+
+.shopio-icon-edit:before {
+  content: "";
+}
+
+.shopio-icon-envelope:before {
+  content: "";
+}
+
+.shopio-icon-expand-alt:before {
+  content: "";
+}
+
+.shopio-icon-external-link-alt:before {
+  content: "";
+}
+
+.shopio-icon-file-alt:before {
+  content: "";
+}
+
+.shopio-icon-file-archive:before {
+  content: "";
+}
+
+.shopio-icon-filter:before {
+  content: "";
+}
+
+.shopio-icon-folder-open:before {
+  content: "";
+}
+
+.shopio-icon-folder:before {
+  content: "";
+}
+
+.shopio-icon-frown:before {
+  content: "";
+}
+
+.shopio-icon-gift:before {
+  content: "";
+}
+
+.shopio-icon-grid:before {
+  content: "";
+}
+
+.shopio-icon-grip-horizontal:before {
+  content: "";
+}
+
+.shopio-icon-heart-fill:before {
+  content: "";
+}
+
+.shopio-icon-heart:before {
+  content: "";
+}
+
+.shopio-icon-history:before {
+  content: "";
+}
+
+.shopio-icon-home:before {
+  content: "";
+}
+
+.shopio-icon-info-circle:before {
+  content: "";
+}
+
+.shopio-icon-instagram:before {
+  content: "";
+}
+
+.shopio-icon-level-up-alt:before {
+  content: "";
+}
+
+.shopio-icon-list:before {
+  content: "";
+}
+
+.shopio-icon-map-marker-check:before {
+  content: "";
+}
+
+.shopio-icon-meh:before {
+  content: "";
+}
+
+.shopio-icon-minus-circle:before {
+  content: "";
+}
+
+.shopio-icon-minus:before {
+  content: "";
+}
+
+.shopio-icon-mobile-android-alt:before {
+  content: "";
+}
+
+.shopio-icon-money-bill:before {
+  content: "";
+}
+
+.shopio-icon-pencil-alt:before {
+  content: "";
+}
+
+.shopio-icon-plus-circle:before {
+  content: "";
+}
+
+.shopio-icon-plus:before {
+  content: "";
+}
+
+.shopio-icon-random:before {
+  content: "";
+}
+
+.shopio-icon-reply-all:before {
+  content: "";
+}
+
+.shopio-icon-reply:before {
+  content: "";
+}
+
+.shopio-icon-search-plus:before {
+  content: "";
+}
+
+.shopio-icon-search:before {
+  content: "";
+}
+
+.shopio-icon-shield-check:before {
+  content: "";
+}
+
+.shopio-icon-shopping-basket:before {
+  content: "";
+}
+
+.shopio-icon-shopping-cart:before {
+  content: "";
+}
+
+.shopio-icon-sign-out-alt:before {
+  content: "";
+}
+
+.shopio-icon-smile:before {
+  content: "";
+}
+
+.shopio-icon-spinner:before {
+  content: "";
+}
+
+.shopio-icon-square:before {
+  content: "";
+}
+
+.shopio-icon-star:before {
+  content: "";
+}
+
+.shopio-icon-store:before {
+  content: "";
+}
+
+.shopio-icon-sync:before {
+  content: "";
+}
+
+.shopio-icon-tachometer-alt:before {
+  content: "";
+}
+
+.shopio-icon-th-large:before {
+  content: "";
+}
+
+.shopio-icon-th-list:before {
+  content: "";
+}
+
+.shopio-icon-thumbtack:before {
+  content: "";
+}
+
+.shopio-icon-ticket:before {
+  content: "";
+}
+
+.shopio-icon-times-circle:before {
+  content: "";
+}
+
+.shopio-icon-times:before {
+  content: "";
+}
+
+.shopio-icon-trophy-alt:before {
+  content: "";
+}
+
+.shopio-icon-truck:before {
+  content: "";
+}
+
+.shopio-icon-user-headset:before {
+  content: "";
+}
+
+.shopio-icon-user-shield:before {
+  content: "";
+}
+
+.shopio-icon-user:before {
+  content: "";
+}
+
+.shopio-icon-video:before {
+  content: "";
+}
+
+.shopio-icon-wishlist-empty:before {
+  content: "";
+}
+
