@@ -34,6 +34,17 @@ do_action('shopio_after_footer');
 ?>
 
 </div><!-- #page -->
+<div class="social">
+    <a class="item" href="<?= get_option('hotline') ?>">
+        <img width="45" class="img-fluid" src="<?= get_template_directory_uri() ?>/assets/images/phone.png" />
+    </a>
+    <a class="item" href="<?= get_option('messenger') ?>">
+        <img width="45" class="img-fluid" src="<?= get_template_directory_uri() ?>/assets/images/messenger.png" />
+    </a>
+    <a class="item" href="<?= get_option('zalo') ?>">
+        <img width="45" class="img-fluid" src="<?= get_template_directory_uri() ?>/assets/images/zalo.png" />
+    </a>
+</div>
 <?php
 
 /**

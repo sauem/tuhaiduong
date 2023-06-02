@@ -216,3 +216,23 @@ $grow: #A87C4F;
 
   }
 }
+.social{
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+  z-index: 99;
+  .item{
+    transition: 0.5s all;
+    border: 1px solid white;
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #A67C50;
+    &:hover{
+      transform: scale(1.1);
+    }
+  }
+}
