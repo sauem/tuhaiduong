@@ -55,7 +55,7 @@ if (empty($product) || !$product->is_visible()) {
             <?php
            // shopio_woocommerce_get_product_category();
             do_action('woocommerce_shop_loop_item_title');
-            template_loop_rating_custom();
+          //  template_loop_rating_custom();
             do_action('woocommerce_after_shop_loop_item_title');
             ?>
         </div>
