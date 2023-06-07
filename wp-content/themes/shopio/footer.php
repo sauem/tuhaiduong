@@ -31,17 +31,19 @@ if (shopio_is_elementor_activated() && function_exists('hfe_init') && (hfe_foote
  * @see shopio_sticky_single_add_to_cart    - 999 - woo
  */
 do_action('shopio_after_footer');
+$setting = pods('site_setting',26435);
+
 ?>
 
 </div><!-- #page -->
 <div class="social">
-    <a class="item" href="<?= get_option('hotline') ?>">
+    <a class="item" href="<?= $setting->field('hotline') ?>">
         <img width="45" class="img-fluid" src="<?= get_template_directory_uri() ?>/assets/images/phone.png" />
     </a>
-    <a class="item" href="<?= get_option('messenger') ?>">
+    <a class="item" href="<?= $setting->field('facebook') ?>">
         <img width="45" class="img-fluid" src="<?= get_template_directory_uri() ?>/assets/images/messenger.png" />
     </a>
-    <a class="item" href="<?= get_option('zalo') ?>">
+    <a class="item" href="<?= $setting->field('zalo') ?>">
         <img width="45" class="img-fluid" src="<?= get_template_directory_uri() ?>/assets/images/zalo.png" />
     </a>
 </div>
